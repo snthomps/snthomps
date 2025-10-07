@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://snthomps.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snthomps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-thompson-748b3711/)
 
 </div>
@@ -14,7 +14,7 @@ Machine Learning Engineer passionate about AI alignment, reinforcement learning,
 - 🔭 Currently working on RLHF optimization and performance profiling
 - 🌱 Learning advanced RL algorithms and distributed training
 - 💡 Interested in AI safety, scalability, and production ML systems
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: Shoot me a DM on LinkedIn
 
 ## ⭐ Featured Project
 
