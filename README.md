@@ -26,7 +26,7 @@ Interactive demonstration of Reinforcement Learning from Human Feedback (RLHF) u
 
 **Tech Stack:** PyTorch, React, NumPy, Vite, Tailwind CSS
 
-[**🔗 Try the Live Demo**](#) | [**📖 Read the Docs**](#)
+[**🔗 Try the Live Demo**](https://snthomps.github.io/rlhf-ppo-pipeline/) | [**📖 Read the Docs**](https://github.com/snthomps/rlhf-ppo-pipeline?tab=readme-ov-file)
 
 ---
 
