@@ -51,6 +51,8 @@ Production-ready Kubernetes-based system for automating ML training jobs with RE
 
 **Tech Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Docker, Kubernetes, Prometheus, Grafana
 
+**Architecture:** Framework-agnostic - orchestrates training jobs for PyTorch, TensorFlow, JAX, or any ML framework
+
 [**📖 View Project →**](https://github.com/snthomps/training-orchestrator)
 
 ---
